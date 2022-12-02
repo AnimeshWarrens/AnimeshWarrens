@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://grosilly.netlify.app/](https://animeshwarrens.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://animeshwarrens.netlify.app/](https://animeshwarrens.netlify.app/)
 
 - 📫 How to reach me **animeshwarrens@gmail.com**
 
