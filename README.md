@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Animesh Warrens</h1>
 <h3 align="center">I am a passionate programmer who likes to make stuff.</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="350" src="https://i.redd.it/92mj3zsl6yz91.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeshwarrens&label=Profile%20views&color=0e75b6&style=flat" alt="animeshwarrens" /> </p>
 
